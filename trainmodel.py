@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 from pytorch_lightning.loggers import CSVLogger
 from pytorch_lightning import Trainer
 
-# Dataset path
+
 dataset = "/home/sonnerag/Pictures/Dataset"
 
 ANNOTATION_FILE_NAME = "_annotations.coco.json"
